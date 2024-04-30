@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9e_U2VEe)
+This is a RESNET 18 model trained by CIFAR-100 datasets, implemented by pytorch 2.2.2, torchvision 0.17.2, cuda 12.1. After 250 epoch of training, the accuracy can reach 41%.
